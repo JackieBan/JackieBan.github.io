@@ -4,6 +4,56 @@
   
   
   <entry>
+    <title>这里有些东西</title>
+    <link href="/2020/01/18/%E8%BF%99%E9%87%8C%E6%9C%89%E4%BA%9B%E4%B8%9C%E8%A5%BF/"/>
+    <url>/2020/01/18/%E8%BF%99%E9%87%8C%E6%9C%89%E4%BA%9B%E4%B8%9C%E8%A5%BF/</url>
+    
+    <content type="html"><![CDATA[<div id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">  <div class="hbe-input-container">  <input type="password" id="hbePass" placeholder="" />    <label for="hbePass">Hey, password is required here.</label>    <div class="bottom-line"></div>  </div>  <script id="hbeData" type="hbeData" data-hmacdigest="a948ecd5fb33fd3a93c19d99c800b4b1aac82b663f5a69b854ac3cd387319b17">0100ab76cdb86edd346997de128923399d9e8b53cc7b8989bf641e7cf515a64888006ea3023f3e3a6df94d73c7f648826a58c2dff2e57cae1dadb2a8e83fb5709458bf7a59566ca005f547cd45441047edb95f94a32f30b33a0472fbed8f8fb5f63aa7c9bfe8bb50c68849a8bf5b9c864a0c83d7598c1ac88eae75fe52d9dfc2e01fd252c44239a17af57c8fc578c869045404446766007448a13bc64d5a752d8f9ae8938706949eb30b93f40103dad304414a1f1c9790a276074942cb9bc1e451efd9b2d7f33cba2a96467f6304a2696c6374f3a6437019a37244eb589d4076d4667c1ae6fa2b025a69e6525a258c3deaa44811b1c5efb1100dece62b5852b6566fe1930f26c75666ea38237a6ed4e642483f3b3a82a7bde438f92a01276a794d7a90a4c37308435447f5dec0f53b35617825e8547faf9cc3230274ab3d5b53ba4eef9d819981e6f471c47f730ef4bde81b8ff9ebbda94f96fd4020cabbc99c57551dced0da8a9705d2ba094da1b404eda554d24ac6e4fc1ac71fa429aa6998a5fc9ade47da5ffa963dacf4b86e2482ebfa5021e073284670a4e54e71ded64486e6308679d4acc2ed472db420ddaf939d5f3baf9583e38e5fb443f5ae4ad71c58f26c08af43bfc3030bd5dcf49a08f570fabc81bcb59d947e16f9b0d955c30496e8003d71c96c228178d6d63226104596a572ffe50576fbe6e5a349f893290a3058cb9ac7f1edc70eb5033483af37935ec0db42b7b01c19b48893a3f1729801914012b11ab4a38f0af2af1fa150cc3e9e591a00534fe4b986b4321f4f4e13a11e502a5f8525b6610d968193133141b1a2df2e4f2629d269dcdeec6841a43de523a00a25b35a89e7f4acadc8a0c717b30d13ea1084f20bd441e7d289ed32513d0dd5d0b82232dbd70fbdf27575edacdbd5afc8eda221bad96154e01f86bb85854d49a9900ae10f97aee2eb23e6d41b1b2330cf6fe410e5a396ba21953da697ae68e5fc00e4521cc40a9d46dfbfa3f06999612bfb803a051b82da3b6026af7331ebfdf5adc2fd288ff00b64e316756ed07153881dbf878296b83c35cfff9996f029e98308e7d47059314090087b5a5b30eed732ddb8c66be2f5183043a6d4a9fd421b2cd9aabbb31ef872f1c67252c6b469e785d9e927d302185cb18aadaa33ad62ea9255e39ff7235d575d5c56e9e190263460095fb469dde2b335cbc449820fcfd55042bbcf7734a18e9485b9814510cc586ecce53d82fcef689d175e053b2ada697b409d81bbd32cbf749bc84d8a562f07274883c936e44411f06836201852ba0a315dc4eab1c6b4d8ae7a0e2c9be3d67694bbaec73064eaf5cbacdcedd50cfebea523cd96f63d204009a398483f5f19aa7d8e66f52345fa58ba2363499710d709a24b9876f96e66f44f9fe0490858a0c804a201027651c90965227047a8d522bd0f6281e6ef064b1604cf5a55b101024b844cf88fb5bbb149556be8107d133ac34d240338916a4e66e041e091a73d79ef42687b48ca747cbcc2a7e005647898102eb5df848053c0fc95f8f0d0a8bcbfff90ba067feec08346d46a839169c4967672de6367bd89682085d6ccde52f8c22a1489c1acc968c3991bd53bbc675c023b788b05d86b442d4a14f1dbba3eb15b99ebaf1581f9db22e5f66b4bee1ef26b55d389c1b31b545af61bd3021ccef82a4b091442f0c64d543bd22c9cb042447fc13b6633d3e5c06b460a07100205a890d15bd2ac0785c11c195bcf471ea67ef3875a6acd0b65c94e5617410729183b3d7f8d9a193a46f64d67abfb232ca4af033d05b0eeae36fc4554e1f914503eba02ba6e7e6ed3e5ceeced6206e17f4fb62dad7bf556bfe0b47d6e0be7fa9b1aeb4fbd461f411d03c67487d3e193113b8b755d6166878e71a34d2390ebe70cb64ccca30a8117fd3b269f110c6f47e727a6936a0dfb6999b637d414691600b2a985009d15e7f01e038393f45c37e205c40289d3a7527f1c99609ef7d177c7a7cb979ae917fe12fd9d9de9736d3435634f8b288b5cff06807113feb79f5af7e3c35469e3a3b34e30caf933a358981dc25f0a4f82fe93e17abec022bce1473d4be8c9d4b984e2c0d750255a2ba18a6a5f2a04c103e9e10cff4a4f4cf0ef490b18231c</script></div><script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
+    
+    
+    <categories>
+      
+      <category>专属</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>专属</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>这是我的第一个博客</title>
+    <link href="/2020/01/18/%E8%BF%99%E6%98%AF%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8D%9A%E5%AE%A2/"/>
+    <url>/2020/01/18/%E8%BF%99%E6%98%AF%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8D%9A%E5%AE%A2/</url>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="很高兴我能写出这个Blog，再次为自己高兴一下"><a href="#很高兴我能写出这个Blog，再次为自己高兴一下" class="headerlink" title="很高兴我能写出这个Blog，再次为自己高兴一下"></a>很高兴我能写出这个Blog，再次为自己高兴一下</h2><p>总的来说呢，这一次写出来的博客还是不错的，虽然自己在插入另外一个Butterfly主题的时候，link连接出了点小问题，而且音乐播放器插件还无法安装，这是一件令人头疼的事情</p><p>其次呢，要对上述文件进行一个重新的记录，整个博客的框架位于_config.yml配置文件中，相对于一些主题中的_config.yml配置文件，在替换掉theme之后，会将后面的config文件也应用到bolg当中</p><p>也就是下面这段代码中的替换</p><pre><code class="bash"># Extensions## Plugins: https://hexo.io/plugins/## Themes: https://hexo.io/themes/theme: （此处为主题的文件名）</code></pre><p>其他的也不知道写啥，就这样吧。以后加油咯！</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>BLOG记录</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>博客生活的第一天</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Hello World</title>
     <link href="/2020/01/17/hello-world/"/>
     <url>/2020/01/17/hello-world/</url>
